@@ -1,0 +1,286 @@
+/*COLORS*/
+/*blue #2D4332
+/*green #4d7255
+
+
+/*HEADER*/
+
+.overlay::before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background: #2D4332;
+    opacity: 0;
+    pointer-events: none;
+    transition: ease opacity 300ms 100ms;
+}
+
+html .bg-color-dark,
+html .bg-dark {
+    background-color: #262e35 !important;
+}
+
+.btn-info {
+    background-color: #4d7255;
+    border-color: #4d7255;
+    color: rgb(0, 0, 0);
+}
+
+.centrar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+html .font-weight-extra-bold {
+    color: #FFF !important;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+
+/*SECCIÓN 2 - PILARES*/
+/*Fondo título rotativo*/
+html .bg-color-primary,
+html .bg-primary {
+    background-color: #2D4332 !important;
+}
+
+.pilarsContainer {
+    background-color: #fff !important;
+    border-color: #2D4332 !important;
+}
+
+/*SECCIÓN 3 - CLIENTES*/
+/*Carousel*/
+.owl-carousel.carousel-center-active-item-2 .owl-item.active>div {
+    border: 4px;
+    border-color: #2D4332;
+    background: #ffffff;
+}
+
+.owl-carousel.carousel-center-active-item-2 .owl-item.active>div * {
+    color: #282525 !important;
+}
+
+.owl-carousel.carousel-center-active-item-2 .owl-item>div {
+    width: 66.6666%;
+    margin-left: auto;
+    padding: 48px;
+    padding: 3rem;
+    background: rgb(243, 243, 243);
+    border: 2px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 70px -40px rgba(0, 0, 0, 0.2);
+}
+
+.owl-carousel.carousel-center-active-item-2 .owl-item.active>div {
+    border: 1px;
+    border-style: solid;
+    border-color: #2D4332;
+}
+
+.owl-carousel:not(.nav-arrows-1):not(.show-nav-title) .owl-nav button[class*="owl-"] {
+    background-color: #4d7255;
+    border-color: #2D4332 #2D4332 #2D4332;
+    color: rgb(0, 0, 0);
+}
+
+.owl-carousel:not(.nav-arrows-1):not(.show-nav-title) .owl-nav button[class*="owl-"]:hover,
+.owl-carousel:not(.nav-arrows-1):not(.show-nav-title) .owl-nav button[class*="owl-"].hover {
+    background-color: #212121;
+    color: white;
+    border-color: #212121 #212121 #212121;
+}
+
+
+@media (min-width: 300px) {
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+/*SECCIÓN 3 - PILARES*/
+/*Fondo título rotativo*/
+html .bg-color-primary,
+html .bg-primary {
+    background-color: #2D4332 !important;
+}
+
+.clientesCont {
+    background-color: rgb(243, 243, 243) !important;
+    /*border-color: #2D4332 !important;*/
+}
+
+/*SECCIÓN 4 - FORMACIÓN*/
+/*Fondo íconos*/
+html .feature-box-primary .feature-box-icon {
+    background-color: #2D4332;
+}
+
+/*SECCIÓN 5 - MÉTRICAS*/
+.parallaxContainer {
+    background-color: #2D4332 !important;
+    border-color: #2D4332 !important;
+}
+
+/*SECCIÓN 6 - FORMULARIO*/
+/*Color botón enviar*/
+html .btn-primary {
+    background-color: #4d7255;
+    border-color: #4d7255;
+    color: rgb(0, 0, 0);
+    /*--color: #ffffff;
+    --hover: #000000;
+    --disabled: #000000;
+    --active: #000000;*/
+}
+
+html .btn-primary:hover {
+    background-color: #000000;
+    /*order-color: #4d7255;
+    color: rgb(0, 0, 0);
+    --color: #ffffff;
+    --hover: #000000;
+    --disabled: #000000;
+    --active: #000000;*/
+}
+
+#phone {
+    width: 515px;
+}
+
+@media screen and (max-width: 800px) {
+    #phone {
+        width: 450px;
+    }
+}
+
+@media screen and (min-width: 400px) {
+    #phone {
+        width: 390px;
+    }
+}
+
+/* FOOTER */
+.py-5 {
+    padding-top: 1, 5rem !important;
+    padding-bottom: 1, 5rem !important
+}
+
+
+/* BOTON WHATSAPP */
+.btn-wsp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    line-height: 63px;
+    bottom: 80px;
+    right: 7px;
+    background: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 35px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.427);
+    z-index: 100;
+    transition: all 300ms ease;
+}
+
+.btn-wsp:hover {
+    background: #20ba5a;
+    color: white;
+}
+
+@media only screen and (min-width:320px) and (max-width:768px) {
+    .btn-wsp {
+        width: 63px;
+        height: 63px;
+        line-height: 66px;
+    }
+}
+
+@font-face {
+    font-family: 'fontello';
+    src:url('./font/fontello.eot?88367813');
+    src:url('./font/fontello.eot?88367813#iefix') format('embedded-opentype'),
+        url('./font/fontello.woff?88367813') format('woff'),
+        url('./font/fontello.ttf?88367813') format('truetype'),
+        url('./font/fontello.svg?88367813#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*ICONS*/
+/*icons-color*/
+html .text-color-primary,
+html .text-primary {
+    color: #2D4332 !important;
+}
+
+#mapa .mapa {
+    padding-left: 22.5rem; /* Reducir el padding izquierdo del texto */
+    padding-right: 2.5rem; /* Quitar el padding derecho del mapa */
+}
+
+#mapa hr {
+    border: none; /* Elimina el estilo por defecto del borde */
+    border-top: 1px solid #2D4332; /* Ajusta el grosor y el color de la línea */
+    margin: 15px 0; /* Ajusta el espaciado alrededor de la línea */
+}
+
+#mapa .map-info {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); /* Sombra */
+    z-index: 5; /* Asegúrate de que el cartel esté encima del mapa */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el cartel */
+}
+
+#googlemaps {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    min-height: 600px;
+}
+
+
+/* Para pantallas más pequeñas (mobile) */
+@media (max-width: 768px) {
+    #mapa .mapa {
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 500px;
+    width: 600px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none!important;
+    height: 500px;
+    width: 600px;
+}
