@@ -1,0 +1,17 @@
+{
+    "es":{
+      "INICIO":"",
+      "SERVICIOS":"",
+      "NOSOTROS":"",
+      "TESTIMONIOS":"",
+      "CONOCENOS":"",
+      "DESARROLLAMOS SOFTWARE CON IMPACTO_":"",
+      "Somos NewBitCrew, somos tu":"",
+      
+      "prueba1": "Contrariamente a la creencia popular, Lorem Ipsum no es simplemente un texto aleatorio. Tiene sus raíces en una pieza de la literatura latina clásica del 45 a. C., por lo que tiene más de 2000 años. Richard McClintock, profesor de latín en Hampden-Sydney College en Virginia, buscó una de las palabras latinas más oscuras, consectetur, en un pasaje de Lorem Ipsum, y al revisar las citas de la palabra en la literatura clásica, descubrió la fuente indudable."
+    },
+    "en":{
+      "HOME":"",
+      "prueba1": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+    }
+  }
