@@ -31,9 +31,12 @@
 
                 <div class="header-column w-100pct w-lg-25pct justify-content-end">
                     <div class="header-row px-4">
-                        <div class="d-none d-sm-flex align-items-center">
-                            <img width="30" height="30" src="img/demos/one-page-agency/icons/phone.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light me-1'}" />
-                            <a href="https://wa.me/+5493872580115" class="text-color-light font-weight-semibold opacity-hover-9 text-decoration-none">(3872) 580-115</a>
+                        <div class="d-none d-sm-flex align-items-center"><div class="d-none d-sm-flex align-items-center">
+                            <a href="https://wa.me/+5493872580115"  class="d-flex align-items-center text-color-light font-weight-semibold opacity-hover-9 text-decoration-none">
+                                <i class="fab fa-whatsapp me-2" style="font-size: 28px;"></i>
+                                <span>(3872) 580-115</span>
+                            </a>
+                        </div>
                         </div>
                         <button class="btn header-btn-collapse-nav btn-gradient" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
                             <i class="fas fa-bars"></i>

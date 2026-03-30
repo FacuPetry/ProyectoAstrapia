@@ -16,7 +16,7 @@
                                 </a>
                             </li>
                             <li class="social-icons-tiktok">
-                                <a href="https://www.tiktok.com/@astrapia.glamping" class="text-color-quaternary" target="_blank" title="Tik Tok">
+                                <a href="https://www.tiktok.com/@glamping.astrapia" class="text-color-quaternary" target="_blank" title="Tik Tok">
                                     <i class="fab fa-tiktok"></i>
                                 </a>
                             </li>
@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="col-auto">
-                    <p class="text-3-5">Copyright 2024. All Rights Reserved.</p>
+                    <p class="text-3-5">Copyright 2026. All Rights Reserved.</p>
                 </div>
             </div>
         </div>

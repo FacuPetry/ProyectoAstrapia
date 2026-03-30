@@ -1,14 +1,12 @@
 <section id="nuestrospaisajes" class="section bg-color-light border-0 m-0 pb-0">
     <div class="container pt-4">
-        <div class="row justify-content-between align-items-end mb-3">
-            <div class="col-auto">
-                <div class="overflow-hidden">
-                    <h2 class="text-color-primary font-weight-semibold line-height-7 text-3 positive-ls-2 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="200">Alojamiento, Finca y Cafayate</h2>
-                </div>
-                <div class="overflow-hidden mb-4">
-                    <h3 class="text-color-dark font-weight-bold text-transform-none line-height-1 text-10 pe-1 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="400">Nuestros Paisajes</h3>
-                </div>
+        <div class="row justify-content-center">
+            <div class="col">
+                <h3 class="text-center text-color-dark font-weight-bold text-transform-none text-10 mb-2">Bienvenidos a Astrapia</h3>
+                <h2 class="text-center text-color-primary font-weight-semibold text-5 positive-ls-2 mb-2">Nuestros Paisajes</h2>
             </div>
+        </div>
+        <div class="row justify-content-center align-items-center mb-3">
             <div class="col-auto appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="600" data-appear-animation-duration="1.4s">
                 <ul class="nav nav-pills sort-source sort-source-style-3 custom-center-pills text-2-5 mb-3 mb-md-4 mb-lg-3" data-sort-id="portfolio" data-option-key="filter">
                     <li class="nav-item line-height-1 ms-4 active" data-option-value="*">

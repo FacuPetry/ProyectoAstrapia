@@ -83,7 +83,7 @@
                                         </a>
                                     </li>
                                     <li class="social-icons-tiktok">
-                                        <a href="https://www.tiktok.com/@astrapia.glamping" target="_blank" title="Tik Tok">
+                                        <a href="https://www.tiktok.com/@glamping.astrapia" target="_blank" title="Tik Tok">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
@@ -122,7 +122,7 @@
                                         </a>
                                     </li>
                                     <li class="social-icons-tiktok">
-                                        <a href="https://www.tiktok.com/@astrapia.glamping" target="_blank" title="Tik Tok">
+                                        <a href="https://www.tiktok.com/@glamping.astrapia" target="_blank" title="Tik Tok">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
@@ -161,7 +161,7 @@
                                         </a>
                                     </li>
                                     <li class="social-icons-tiktok">
-                                        <a href="https://www.tiktok.com/@astrapia.glamping" target="_blank" title="Tik Tok">
+                                        <a href="https://www.tiktok.com/@glamping.astrapia" target="_blank" title="Tik Tok">
                                             <i class="fab fa-tiktok"></i>
                                         </a>
                                     </li>
