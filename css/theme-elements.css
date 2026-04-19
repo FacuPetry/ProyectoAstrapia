@@ -17600,6 +17600,7 @@ html.gecko .sort-destination.sort-destination-margin > [class*="col-"] {
 	padding: 0;
 	margin: 0;
 	border-radius: 0;
+    background-color: #DDD7CF !important;
 }
 
 .thumb-info.thumb-info-no-borders .thumb-info-wrapper {

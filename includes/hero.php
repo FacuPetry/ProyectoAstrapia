@@ -14,7 +14,7 @@
                 </a>
             </li>
             <li class="social-icons-youtube my-2">
-                <a href="https://youtube.com/@astrapia.glamping?si=v0sZe9x6O4Gnc78-" class="text-color-quaternary" target="_blank" title="Youtube">
+                <a href="https://www.youtube.com/@glamping.astrapia" class="text-color-quaternary" target="_blank" title="Youtube">
                     <i class="fab fa-youtube"></i>
                 </a>
             </li>
@@ -33,12 +33,12 @@
                 <div class="owl-item position-relative">
                     <div class="background-image-wrapper position-absolute top-0 left-0 right-0 bottom-0 animated kenBurnsToRightTop" style="background-image: url(img/fondo-inicio.webp); background-size: cover; background-position: center; animation-duration: 20s;">
                         <!-- Overlay oscuro -->
-                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.15); z-index: 1;"></div>
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.30); z-index: 1;"></div>
                     </div>
                     <div class="container position-relative z-index-3 h-100">
                         <div class="row justify-content-center align-items-center h-100">
                             <div class="col-lg-7 text-center text-sm-center mb-4 pb-5 pb-lg-0">
-                                <img src="img/logo/logo_white_3.png"
+                                <img src="img/logo/logo_white_3.svg"
                                     alt="ASTRAPIA"
                                     class="img-fluid d-block mx-auto mb-4 appear-animation"
                                     data-appear-animation="fadeInUpShorter"

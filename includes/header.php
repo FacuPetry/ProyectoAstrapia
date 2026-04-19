@@ -6,7 +6,7 @@
                     <div class="header-row">
                         <div class="header-logo px-4">
                             <a href="index.php">
-                                <img alt="ASTRAPIA" src="img/logo/logo_white.png" width="180" height="59">
+                                <img alt="ASTRAPIA" src="img/logo/logo_white.svg" width="180" height="59">
                             </a>
                         </div>
                     </div>

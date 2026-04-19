@@ -6,7 +6,7 @@
                     <div class="d-flex align-items-center">
                         <div class="d-none d-sm-inline-flex align-items-center border-dark border border-top-0 border-bottom-0 border-start-0 pe-4">
                             <a href="index.php">
-                                <img alt="ASTRAPIA" src="img/logo/logo_black.png" width="150" height="88">
+                                <img alt="ASTRAPIA" src="img/logo/logo_black.svg" width="200" height="100">
                             </a>
                         </div>
                         <ul class="social-icons social-icons-clean social-icons-medium ms-sm-4">
@@ -21,7 +21,7 @@
                                 </a>
                             </li>
                             <li class="social-icons-youtube">
-                                <a href="https://youtube.com/@astrapia.glamping?si=v0sZe9x6O4Gnc78-" class="text-color-quaternary" target="_blank" title="Youtube">
+                                <a href="https://www.youtube.com/@glamping.astrapia" class="text-color-quaternary" target="_blank" title="Youtube">
                                     <i class="fab fa-youtube"></i>
                                 </a>
                             </li>

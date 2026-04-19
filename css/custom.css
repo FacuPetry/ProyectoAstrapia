@@ -282,3 +282,18 @@ html .text-primary {
     height: 500px;
     width: 600px;
 }
+
+/* SECCIÓN PAISAJES - Imágenes de alta resolución sin deformación */
+#nuestrospaisajes .thumb-info-wrapper {
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    margin: 2px;
+}
+
+#nuestrospaisajes .custom-paisaje-img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+}

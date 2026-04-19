@@ -19,10 +19,10 @@
                             <div class="card custom-card-style-1 border-0 border-radius-0 custom-box-shadow-1" style="background-color: #e1dcd5;">
                                 <img src="img/finca/finca-1.jpg" class="card-img-top border-radius-0 opacity-hover-8" alt="Historia de la marca" />
                                 <div class="card-body text-center px-4 py-5">
-                                    <h2 class="card-title alternative-font-4 text-color-dark text-color-hover-primary font-weight-bold line-height-1 text-5 mb-1">Historia de la marca</h2>
+                                    <h2 class="card-title alternative-font-4 text-color-dark text-color-hover-primary font-weight-bold line-height-1 text-5 mb-1">Sobre nosotros</h2>
                                     <p class="text-color-primary text-2-5 mb-3">ASTRAPIA</p>
                                     <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                        Nuestra historia comienza con una pasión y búsqueda por el empoderamiento personal y el disfrute en la simplicidad de las cosas.
+                                        Astrapia nació en un instante de conexión, y desde entonces todo ha sido creado y pensado desde ese lugar. Comprometidos con la sustentabilidad y el cuidado del medio ambiente, creemos que el verdadero lujo no siempre se encuentra en la ciudad.
                                     </p>
                                     <span class="font-weight-semibold text-2">
                                         CONOCER MÁS
@@ -37,7 +37,7 @@
                                     <h2 class="card-title alternative-font-4 text-color-dark text-color-hover-primary font-weight-bold line-height-1 text-5 mb-1">Misión</h2>
                                     <p class="text-color-primary text-2-5 mb-3">ASTRAPIA</p>
                                     <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                        En ASTRAPIA, nuestra misión es proporcionar una experiencia de lujo combinando lo sofisticado y el confort con la belleza natural de la región.
+                                        Crear experiencias de lujo consciente que generen bienestar y paz, promoviendo la conexión espiritual y el respeto por la naturaleza.
                                     </p>
                                     <span class="font-weight-semibold text-2">
                                         CONOCER MÁS
@@ -52,7 +52,7 @@
                                     <h2 class="card-title alternative-font-4 text-color-dark text-color-hover-primary font-weight-bold line-height-1 text-5 mb-1">Visión</h2>
                                     <p class="text-color-primary text-2-5 mb-3">ASTRAPIA</p>
                                     <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                        Aspiramos a ser un referente en el turismo de lujo sostenible, donde cada detalle de nuestra experiencia esté diseñado para ofrecer a nuestros huéspedes una inmersión completa en la belleza y tranquilidad del Valle Calchaquíes.
+                                        Ser un referente de lujo consciente y sustentable, brindando experiencias naturales que, en su simplicidad, invitan a desconectar y reconectar con uno mismo.
                                     </p>
                                     <span class="font-weight-semibold text-2">
                                         CONOCER MÁS
@@ -74,7 +74,7 @@
                         <div class="col px-3">
                             <div class="d-flex justify-content-between">
                                 <div>
-                                    <h2 class="font-weight-semibold text-color-dark text-5 line-height-1 mb-0">Historia de la marca</h2>
+                                    <h2 class="font-weight-semibold text-color-dark text-5 line-height-1 mb-0">Sobre nosotros</h2>
                                 </div>
                                 <ul class="social-icons custom-social-icons-style-2 text-center">
                                     <li class="social-icons-instagram">
@@ -95,10 +95,10 @@
                                 </ul>
                             </div>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                En ASTRAPIA, nuestra misión es proporcionar una experiencia de lujo combinando lo sofisticado y el confort con la belleza natural de la región.
+                                <b>ASTRAPIA</b> nació en un instante de conexión, y desde entonces todo ha sido creado y pensado desde ese lugar. Comprometidos con la sustentabilidad y el cuidado del medio ambiente, creemos que el verdadero lujo no siempre se encuentra en la ciudad.
                             </p>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Nos comprometemos a ofrecer un alojamiento excepcional permitiendo a nuestros huéspedes disfrutar de la tranquilidad y la majestuosidad del Valle Calchaquíes.
+                                Ubicada en una finca familiar de vinos de autor, buscamos realzar el valor del terruño de un lugar mágico, lleno de paz y energía, ofreciendo experiencias que invitan a reconectar con la naturaleza y con uno mismo.
                             </p>
                         </div>
                     </div>
@@ -106,7 +106,7 @@
                 <div id="mision" class="dialog dialog-sm zoom-anim-dialog mfp-hide mfp-close-out p-4">
                     <div class="row mt-1">
                         <div class="col px-3 mb-4 mb-md-0">
-                            <img src="img/finca/finca-2.jpeg" class="custom-rounded-image img-fluid mb-4" alt="">
+                            <img src="img/finca/finca-2.jpg" class="custom-rounded-image img-fluid mb-4" alt="">
                         </div>
                     </div>
                     <div class="row mb-1">
@@ -134,7 +134,7 @@
                                 </ul>
                             </div>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                En ASTRAPIA, nuestra misión es proporcionar una experiencia de lujo combinando lo sofisticado y el confort con la belleza natural de la región.
+                                Crear experiencias de lujo consciente que generen bienestar y paz, promoviendo la conexión espiritual y el respeto por la naturaleza.
                             </p>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
                                 Nos comprometemos a ofrecer un alojamiento excepcional permitiendo a nuestros huéspedes disfrutar de la tranquilidad y la majestuosidad del Valle Calchaquíes.
@@ -173,7 +173,7 @@
                                 </ul>
                             </div>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Aspiramos a ser un referente en el turismo de lujo sostenible, donde cada detalle de nuestra experiencia esté diseñado para ofrecer a nuestros huéspedes una inmersión completa en la belleza y tranquilidad del Valle Calchaquíes.
+                                Ser un referente de lujo consciente y sustentable, brindando experiencias naturales que, en su simplicidad, invitan a desconectar y reconectar con uno mismo.
                             </p>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
                                 Imaginamos un futuro en el que ASTRAPIA no solo sea sinónimo de confort y exclusividad, sino también de un profundo compromiso con la preservación ambiental y la promoción de prácticas turísticas responsables que beneficien a la comunidad local y al entorno natural.
