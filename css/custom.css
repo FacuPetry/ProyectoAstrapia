@@ -297,3 +297,17 @@ html .text-primary {
     object-fit: cover;
     object-position: center;
 }
+
+#home .hero-main-bg-wrapper {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#home .hero-main-bg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}

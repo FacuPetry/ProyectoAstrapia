@@ -31,7 +31,11 @@
 
                 <!-- Carousel Slide 1 -->
                 <div class="owl-item position-relative">
-                    <div class="background-image-wrapper position-absolute top-0 left-0 right-0 bottom-0 animated kenBurnsToRightTop" style="background-image: url(img/fondo-inicio.webp); background-size: cover; background-position: center; animation-duration: 20s;">
+                    <div class="background-image-wrapper position-absolute top-0 left-0 right-0 bottom-0 animated kenBurnsToRightTop" style="animation-duration: 20s;">
+                        <picture class="hero-main-bg-wrapper">
+                            <source media="(max-width: 768px)" srcset="img/fondo-inicio-mobile.webp">
+                            <img src="img/fondo-inicio.webp" alt="Paisaje de fondo" class="hero-main-bg" width="3840" height="2160" fetchpriority="high" decoding="async">
+                        </picture>
                         <!-- Overlay oscuro -->
                         <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.30); z-index: 1;"></div>
                     </div>

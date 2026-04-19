@@ -35,7 +35,7 @@
                                 <a href="img/projects/alojamiento-1.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/alojamiento-1.jpg" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/alojamiento-1.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner text-color-light">EXTERIORES</span>
                                                 <span class="thumb-info-type">DOMOS</span>
@@ -50,7 +50,7 @@
                                 <a href="img/projects/cafayate-1.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/cafayate-1.jpg" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/cafayate-1.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">VISTAS</span>
                                                 <span class="thumb-info-type">CAFAYATE</span>
@@ -65,7 +65,7 @@
                                 <a href="img/projects/cafayate-2.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/cafayate-2.jpg" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/cafayate-2.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">PAISAJE</span>
                                                 <span class="thumb-info-type">FINCA EL AZUSTO</span>
@@ -80,7 +80,7 @@
                                 <a href="img/projects/alojamiento-4.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/alojamiento-4.jpg" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/alojamiento-4.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">EXTERIORES</span>
                                                 <span class="thumb-info-type">DOMOS</span>
@@ -92,10 +92,10 @@
                         </div>
                         <div class="isotope-item col-sm-6 col-lg-3 brands p-0">
                             <div class="image-gallery-item mb-0">
-                                <a href="img/projects/finca-2.png" class="lightbox-portfolio">
+                                <a href="img/projects/finca-2.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/finca-2.png" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/finca-2.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">UVAS</span>
                                                 <span class="thumb-info-type">FINCA EL AZUSTO</span>
@@ -110,7 +110,7 @@
                                 <a href="img/projects/alojamiento-2.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/alojamiento-2.jpg" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/alojamiento-2.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">EXTERIORES</span>
                                                 <span class="thumb-info-type">DOMOS</span>
@@ -125,7 +125,7 @@
                                 <a href="img/projects/finca-3.png" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/finca-3.png" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/finca-3.png" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">VIÑEDOS</span>
                                                 <span class="thumb-info-type">FINCA EL AZUSTO</span>
@@ -140,7 +140,7 @@
                                 <a href="img/projects/otros-1.jpg" class="lightbox-portfolio">
                                     <span class="thumb-info thumb-info-centered-info thumb-info-no-borders custom-thumb-info-style-1">
                                         <span class="thumb-info-wrapper">
-                                            <img src="img/projects/otros-1.jpg" class="img-fluid custom-paisaje-img" alt="">
+                                            <img src="img/projects/otros-1.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
                                                 <span class="thumb-info-inner">PAISAJE</span>
                                                 <span class="thumb-info-type">FINCA EL AZUSTO</span>
