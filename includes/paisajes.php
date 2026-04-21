@@ -19,7 +19,7 @@
                         <a class="nav-link font-weight-semibold text-color-hover-primary px-0" href="#">Finca EL AZUSTO</a>
                     </li>
                     <li class="nav-item line-height-1 ms-4" data-option-value=".mobile-app">
-                        <a class="nav-link font-weight-semibold text-color-hover-primary px-0" href="#">Cafayate</a>
+                        <a class="nav-link font-weight-semibold text-color-hover-primary px-0" href="#">Paisajes</a>
                     </li>
                 </ul>
             </div>
@@ -52,8 +52,8 @@
                                         <span class="thumb-info-wrapper">
                                             <img src="img/projects/cafayate-1.jpg" class="img-fluid custom-paisaje-img" alt="" width="1000" height="1000" loading="lazy" decoding="async">
                                             <span class="thumb-info-title">
-                                                <span class="thumb-info-inner">VISTAS</span>
-                                                <span class="thumb-info-type">CAFAYATE</span>
+                                                <span class="thumb-info-inner">CAFAYATE</span>
+                                                <span class="thumb-info-type">PAISAJES</span>
                                             </span>
                                         </span>
                                     </span>
