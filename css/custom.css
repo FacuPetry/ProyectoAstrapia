@@ -311,3 +311,154 @@ html .text-primary {
     object-position: center;
     display: block;
 }
+
+/* SECCIÓN NUESTROS VALORES */
+#nuestrosvalores .valores-diagrama {
+    position: relative;
+    max-width: 980px;
+    min-height: 620px;
+    margin: 0 auto;
+}
+
+#nuestrosvalores .valores-path {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    width: 76%;
+    height: 470px;
+    border: 6px dotted #2D4332;
+    border-radius: 55% / 45%;
+    transform: translateX(-50%);
+    opacity: 0.95;
+}
+
+#nuestrosvalores .valor-item {
+    position: absolute;
+    width: 340px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    transition: transform 220ms ease, filter 220ms ease;
+}
+
+#nuestrosvalores .valor-item:hover {
+    transform: translateY(-6px) scale(1.015);
+    filter: drop-shadow(0 10px 16px rgba(0, 0, 0, 0.15));
+}
+
+#nuestrosvalores .valor-icon {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    background: linear-gradient(90deg, #2D4332 0%, #32553a 100%);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.1rem;
+}
+
+#nuestrosvalores .valor-label {
+    width: 100%;
+    margin: 0;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #2D4332 0%, #32553a 100%);
+    color: #f7f6f1;
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    font-family: 'Lora', serif;
+    font-weight: 500;
+    padding: 18px 22px;
+}
+
+#nuestrosvalores .valor-naturaleza {
+    top: 10px;
+    left: 110px;
+}
+
+#nuestrosvalores .valor-privacidad {
+    top: 10px;
+    right: 110px;
+}
+
+#nuestrosvalores .valor-autenticidad {
+    top: 250px;
+    right: -20px;
+}
+
+#nuestrosvalores .valor-lujo {
+    top: 410px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#nuestrosvalores .valor-sostenibilidad {
+    top: 250px;
+    left: -20px;
+}
+
+#nuestrosvalores .valor-lujo:hover {
+    transform: translateX(-50%) translateY(-6px) scale(1.015);
+}
+
+@media (max-width: 1199px) {
+    #nuestrosvalores .valores-diagrama {
+        min-height: 740px;
+    }
+
+    #nuestrosvalores .valor-item {
+        width: 300px;
+    }
+
+    #nuestrosvalores .valor-label {
+        font-size: 1.7rem;
+    }
+
+    #nuestrosvalores .valor-naturaleza,
+    #nuestrosvalores .valor-privacidad {
+        top: 30px;
+    }
+
+    #nuestrosvalores .valor-autenticidad,
+    #nuestrosvalores .valor-sostenibilidad {
+        top: 300px;
+    }
+
+    #nuestrosvalores .valor-lujo {
+        top: 510px;
+    }
+}
+
+@media (max-width: 991px) {
+    #nuestrosvalores .valores-diagrama {
+        min-height: 0;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    #nuestrosvalores .valores-path {
+        display: none;
+    }
+
+    #nuestrosvalores .valor-item,
+    #nuestrosvalores .valor-lujo,
+    #nuestrosvalores .valor-lujo:hover {
+        position: static;
+        width: 100%;
+        transform: none;
+    }
+
+    #nuestrosvalores .valor-label {
+        font-size: 1.35rem;
+    }
+
+    #nuestrosvalores .valor-icon {
+        width: 82px;
+        height: 82px;
+        font-size: 1.7rem;
+    }
+}
