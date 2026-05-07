@@ -1,7 +1,7 @@
 
 <section id="mapa">
-    <div class="row align-items-center bg-color-light">
-        <div class="col-md-6 mapa pb-4">
+    <div class="row align-items-start justify-content-center bg-color-light g-4">
+        <div class="col-12 col-lg-6 mapa pb-4">
             <h2 class="alternative-font-4 text-color-primary font-weight-bold line-height-1 text-5 mb-1">DONDE ESTAMOS</h2>
             <hr>
             <p class="font-weight-bold text-color-dark line-height-7 text-4">
@@ -33,12 +33,11 @@
                 CONSULTAS O RESERVAS
             </a>
         </div>
-        <div class="col-md-4 pb-4">
+        <div class="col-12 col-lg-5 pb-4">
             <div class="mapouter">
                 <div class="gmap_canvas">
                     <iframe 
-                        width="600" 
-                        height="500" 
+                        loading="lazy"
                         id="gmap_canvas" 
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4469.476669025197!2d-65.86773338821185!3d-26.09741657704716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x941f35053bcbc48d%3A0xfe13b10eb1c35531!2sGLAMPING%20ASTRAPIA!5e1!3m2!1ses!2sar!4v1774835717653!5m2!1ses!2sar" 
                         frameborder="0" 
