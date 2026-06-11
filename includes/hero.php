@@ -60,7 +60,7 @@
                                     Cafayate, Salta · Norte Argentino
                                 </h1>
                                 <br>
-                                <a href="https://glampingastrapia.reservadirecto.com/lp.html?pos=GlampingAstrapia&lng=es&Pid=26474&cur=ARS&SearchID=61781665&tag=www.google.com&ListID=0&search=OK&Email=NN" 
+                                <a href="https://glampingastrapia.reservadirecto.com/" 
                                    target="_blank" 
                                    rel="noopener noreferrer" 
                                    class="btn btn-gradient custom-btn-effect-1 custom-border-radius-1 d-inline-flex align-items-center font-weight-semibold text-3-5 btn-px-5 btn-py-3 appear-animation" 
