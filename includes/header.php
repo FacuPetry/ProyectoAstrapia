@@ -19,7 +19,7 @@
                                 <nav class="wrapper-spy collapse">
                                     <ul class="nav nav-pills" id="mainNav">
                                         <li><a class="nav-link active" href="#home" data-hash>Inicio</a></li>
-                                        <li><a class="nav-link" href="#nuestrospaisajes" data-hash data-hash-offset="0" data-hash-offset-lg="32">Nuestros Paisajes</a></li>
+                                        <li><a class="nav-link" href="#nuestrospaisajes" data-hash data-hash-offset="0" data-hash-offset-lg="32">Fotos</a></li>
                                         <li><a class="nav-link" href="#nuestrahistoria" data-hash data-hash-offset="0" data-hash-offset-lg="32">Nuestra Historia</a></li>
                                         <li><a class="nav-link" href="#nuestrosvalores" data-hash data-hash-offset="0" data-hash-offset-lg="32">Nuestros Valores</a></li>
                                     </ul>
@@ -32,7 +32,7 @@
                 <div class="header-column w-100pct w-lg-25pct justify-content-end">
                     <div class="header-row px-4">
                         <div class="d-none d-sm-flex align-items-center"><div class="d-none d-sm-flex align-items-center">
-                            <a href="https://wa.me/+5493872580115"  class="d-flex align-items-center text-color-light font-weight-semibold opacity-hover-9 text-decoration-none">
+                            <a href="https://wa.me/message/UXNBRQGKYWGRL1"  class="d-flex align-items-center text-color-light font-weight-semibold opacity-hover-9 text-decoration-none">
                                 <i class="fab fa-whatsapp me-2" style="font-size: 28px;"></i>
                                 <span>(3872) 580-115</span>
                             </a>

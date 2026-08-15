@@ -22,7 +22,7 @@
                                     <h2 class="card-title alternative-font-4 text-color-dark text-color-hover-primary font-weight-bold line-height-1 text-5 mb-1">Sobre nosotros</h2>
                                     <p class="text-color-primary text-2-5 mb-3">ASTRAPIA</p>
                                     <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                        Astrapia nació en un instante de conexión, y desde entonces todo ha sido creado y pensado desde ese lugar. Comprometidos con la sustentabilidad y el cuidado del medio ambiente, creemos que el verdadero lujo no siempre se encuentra en la ciudad.
+                                        Astrapia nació en un instante de conexión, y desde entonces cada decisión ha sido pensada y creada desde ese mismo lugar.
                                     </p>
                                     <span class="font-weight-semibold text-2">
                                         CONOCER MÁS
@@ -37,7 +37,7 @@
                                     <h2 class="card-title alternative-font-4 text-color-dark text-color-hover-primary font-weight-bold line-height-1 text-5 mb-1">Misión</h2>
                                     <p class="text-color-primary text-2-5 mb-3">ASTRAPIA</p>
                                     <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                        Crear experiencias de lujo consciente que generen bienestar y paz, promoviendo la conexión espiritual y el respeto por la naturaleza.
+                                        Nuestra misión es crear experiencias de lujo consciente que generen bienestar y paz, promoviendo la conexión espiritual y el respeto por la naturaleza.
                                     </p>
                                     <span class="font-weight-semibold text-2">
                                         CONOCER MÁS
@@ -88,17 +88,17 @@
                                         </a>
                                     </li>
                                     <li class="social-icons-whatsapp">
-                                        <a href="https://wa.me/+5493872580115" target="_blank" title="Whatsapp">
+                                        <a href="https://wa.me/message/UXNBRQGKYWGRL1" target="_blank" title="Whatsapp">
                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                <b>ASTRAPIA</b> nació en un instante de conexión, y desde entonces todo ha sido creado y pensado desde ese lugar. Comprometidos con la sustentabilidad y el cuidado del medio ambiente, creemos que el verdadero lujo no siempre se encuentra en la ciudad.
+                                <b>ASTRAPIA nació en un instante de conexión, y desde entonces cada decisión ha sido pensada y creada desde ese mismo lugar.</b> Comprometidos con la sustentabilidad y el cuidado del medio ambiente, creemos que el verdadero lujo no siempre se encuentra en la ciudad, sino en la posibilidad de habitar el silencio, la inmensidad y la belleza natural.
                             </p>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Ubicada en una finca familiar de vinos de autor, buscamos realzar el valor del terruño de un lugar mágico, lleno de paz y energía, ofreciendo experiencias que invitan a reconectar con la naturaleza y con uno mismo.
+                                <b>ASTRAPIA</b> busca realzar el valor del terruño de un lugar mágico, lleno de paz y energía, ofreciendo experiencias que invitan a redescubrir el paisaje, los sentidos y el paladar. Cada detalle de diseño, confort y hospitalidad ha sido cuidadosamente pensado para que vivas la quietud del tiempo, la comodidad, el lujo y la simpleza en un mismo lugar.
                             </p>
                         </div>
                     </div>
@@ -127,17 +127,14 @@
                                         </a>
                                     </li>
                                     <li class="social-icons-whatsapp">
-                                        <a href="https://wa.me/+5493872580115" target="_blank" title="Whatsapp">
+                                        <a href="https://wa.me/message/UXNBRQGKYWGRL1" target="_blank" title="Whatsapp">
                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Crear experiencias de lujo consciente que generen bienestar y paz, promoviendo la conexión espiritual y el respeto por la naturaleza.
-                            </p>
-                            <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Nos comprometemos a ofrecer un alojamiento excepcional permitiendo a nuestros huéspedes disfrutar de la tranquilidad y la majestuosidad del Valle Calchaquíes.
+                                Nuestra <b>misión</b> es crear experiencias de lujo consciente que generen bienestar y paz, promoviendo la conexión espiritual y el respeto por la naturaleza.
                             </p>
                         </div>
                     </div>
@@ -166,17 +163,14 @@
                                         </a>
                                     </li>
                                     <li class="social-icons-whatsapp">
-                                        <a href="https://wa.me/+5493872580115" target="_blank" title="Whatsapp">
+                                        <a href="https://wa.me/message/UXNBRQGKYWGRL1" target="_blank" title="Whatsapp">
                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                             <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Ser un referente de lujo consciente y sustentable, brindando experiencias naturales que, en su simplicidad, invitan a desconectar y reconectar con uno mismo.
-                            </p>
-                            <p class="font-weight-light text-color-dark line-height-7 mb-3">
-                                Imaginamos un futuro en el que ASTRAPIA no solo sea sinónimo de confort y exclusividad, sino también de un profundo compromiso con la preservación ambiental y la promoción de prácticas turísticas responsables que beneficien a la comunidad local y al entorno natural.
+                                Nuestra <b>visión</b> es consolidarnos como un referente de lujo consciente y sustentable, brindando experiencias naturales que, en su simplicidad, invitan a desconectar del mundo exterior y volver a lo esencial.
                             </p>
                         </div>
                     </div>

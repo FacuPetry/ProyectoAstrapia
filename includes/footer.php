@@ -26,7 +26,7 @@
                                 </a>
                             </li>
                             <li class="social-icons-whatsapp">
-                                <a href="https://wa.me/+5493872580115" class="text-color-quaternary" target="_blank" title="Whatsapp">
+                                <a href="https://wa.me/message/UXNBRQGKYWGRL1" class="text-color-quaternary" target="_blank" title="Whatsapp">
                                     <i class="fab fa-whatsapp"></i>
                                 </a>
                             </li>
@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="col-auto">
-                    <p class="text-3-5">Copyright 2026. All Rights Reserved.</p>
+                    <p class="text-3-5">Copyright © 2026 ASTRAPIA | Cafayate, Salta</p>
                 </div>
             </div>
         </div>

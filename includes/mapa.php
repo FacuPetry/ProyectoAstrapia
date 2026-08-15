@@ -12,7 +12,7 @@
             </p>
             <hr>
             <p class="font-weight-light text-color-dark line-height-1">
-                <strong class="font-weight-bold">Reservas:</strong>  astrapia.glamping@gmail.com
+                <strong class="font-weight-bold">Reservas grupales:</strong>  info@astrapia.com.ar
             </p>
             <p class="font-weight-light text-color-dark line-height-1">
                 <strong class="font-weight-bold">Reclamos o Recomendaciones:</strong>  info@astrapia.com.ar
@@ -29,7 +29,7 @@
             <p class="font-weight-light text-color-dark line-height-7">
                 Click aquí abajo.
             </p>
-            <a href="https://wa.me/+5493872580115" class="btn btn-gradient custom-btn-effect-1 custom-border-radius-1 d-inline-flex align-items-center font-weight-semibold text-3-5 btn-px-5 btn-py-3 appear-animation" data-hash data-hash-offset="0" data-hash-offset-lg="32" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600" data-appear-animation-duration="1.7s">
+            <a href="https://wa.me/message/UXNBRQGKYWGRL1" class="btn btn-gradient custom-btn-effect-1 custom-border-radius-1 d-inline-flex align-items-center font-weight-semibold text-3-5 btn-px-5 btn-py-3 appear-animation" data-hash data-hash-offset="0" data-hash-offset-lg="32" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600" data-appear-animation-duration="1.7s">
                 CONSULTAS O RESERVAS
             </a>
         </div>

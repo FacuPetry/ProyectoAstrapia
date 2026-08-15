@@ -1,0 +1,52 @@
+{
+  "secciones": [
+    {
+      "id": "domos",
+      "nombre": "DOMOS",
+      "carpeta": "img/paisajes/domos",
+      "imagenes": [
+        { "archivo": "alojamiento-1.jpg", "leyenda": "EXTERIORES", "subleyenda": "DOMOS", "orden_global": 10 },
+        { "archivo": "alojamiento-2.jpg", "leyenda": "EXTERIORES", "subleyenda": "DOMOS", "orden_global": 80 },
+        { "archivo": "alojamiento-3.jpg", "leyenda": "EXTERIORES", "subleyenda": "DOMOS", "orden_global": 100 },
+        { "archivo": "alojamiento-4.jpg", "leyenda": "INTERIORES", "subleyenda": "DOMOS", "orden_global": 110 },
+        { "archivo": "alojamiento-5.jpg", "leyenda": "INTERIORES", "subleyenda": "DOMOS", "orden_global": 130 },
+        { "archivo": "alojamiento-6.jpg", "leyenda": "INTERIORES", "subleyenda": "DOMOS", "orden_global": 190 }
+      ]
+    },
+    {
+      "id": "astrapia-bistro",
+      "nombre": "ASTRAPIA BISTRÓ",
+      "carpeta": "img/paisajes/astrapia-bistro",
+      "imagenes": [
+        { "archivo": "astrapia-bistro-1.jpg", "leyenda": "INTERIORES", "subleyenda": "ASTRAPIA BISTRÓ", "orden_global": 20 },
+        { "archivo": "astrapia-bistro-2.jpg", "leyenda": "EXTERIORES", "subleyenda": "ASTRAPIA BISTRÓ", "orden_global": 40 }
+      ]
+    },
+    {
+      "id": "biopiscina",
+      "nombre": "BIOPISCINA",
+      "carpeta": "img/paisajes/biopiscina",
+      "imagenes": [
+        { "archivo": "biopiscina-1.jpg", "leyenda": "PAISAJE", "subleyenda": "BIOPISCINA", "orden_global": 90 },
+        { "archivo": "biopiscina-2.jpg", "leyenda": "PAISAJE", "subleyenda": "BIOPISCINA", "orden_global": 50 },
+        { "archivo": "biopiscina-3.jpg", "leyenda": "PAISAJE", "subleyenda": "BIOPISCINA", "orden_global": 120 },
+        { "archivo": "biopiscina-4.jpg", "leyenda": "PAISAJE", "subleyenda": "BIOPISCINA", "orden_global": 200 }
+      ]
+    },
+    {
+      "id": "finca-el-azusto",
+      "nombre": "Finca EL AZUSTO",
+      "carpeta": "img/paisajes/finca-el-azusto",
+      "imagenes": [
+        { "archivo": "cafayate-1.jpg", "leyenda": "CAFAYATE", "subleyenda": "PAISAJES", "orden_global": 30 },
+        { "archivo": "cafayate-2.jpg", "leyenda": "PAISAJE", "subleyenda": "FINCA EL AZUSTO", "orden_global": 140 },
+        { "archivo": "cafayate-3.jpg", "leyenda": "CAFAYATE", "subleyenda": "PAISAJES", "orden_global": 150 },
+        { "archivo": "cafayate-4.jpg", "leyenda": "PAISAJE", "subleyenda": "FINCA EL AZUSTO", "orden_global": 60 },
+        { "archivo": "finca-2.jpg", "leyenda": "UVAS", "subleyenda": "FINCA EL AZUSTO", "orden_global": 160 },
+        { "archivo": "finca-3.png", "leyenda": "VIÑEDOS", "subleyenda": "FINCA EL AZUSTO", "orden_global": 70 },
+        { "archivo": "finca-4.png", "leyenda": "VIÑEDOS", "subleyenda": "FINCA EL AZUSTO", "orden_global": 170 },
+        { "archivo": "otros-1.jpg", "leyenda": "PAISAJE", "subleyenda": "FINCA EL AZUSTO", "orden_global": 180 }
+      ]
+    }
+  ]
+}

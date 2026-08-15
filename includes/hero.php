@@ -19,7 +19,7 @@
                 </a>
             </li>
             <li class="social-icons-whatsapp my-2">
-                <a href="https://wa.me/+5493872580115" class="text-color-quaternary" target="_blank" title="Whatsapp">
+                <a href="https://wa.me/message/UXNBRQGKYWGRL1" class="text-color-quaternary" target="_blank" title="Whatsapp">
                     <i class="fab fa-whatsapp"></i>
                 </a>
             </li>
