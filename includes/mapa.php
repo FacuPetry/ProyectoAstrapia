@@ -1,6 +1,6 @@
 
 <section id="mapa">
-    <div class="row align-items-start justify-content-center bg-color-light g-4">
+    <div class="row align-items-start justify-content-center bg-color-light g-4 m-0">
         <div class="col-12 col-lg-6 mapa pb-4">
             <h2 class="alternative-font-4 text-color-primary font-weight-bold line-height-1 text-5 mb-1">DONDE ESTAMOS</h2>
             <hr>

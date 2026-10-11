@@ -18,6 +18,7 @@
             <?php include 'includes/paisajes.php'; ?>
             <?php include 'includes/historia.php'; ?>
             <?php include 'includes/valores.php'; ?>
+            <?php include 'includes/finca-azusto.php'; ?>
             <?php include 'includes/mapa.php'; ?>
         </div>
 
